@@ -45,8 +45,7 @@
 <!--END_SECTION:waka-->
 
 
-<img align="left" src="https://github-readme-stats-chi-rust.vercel.app
-/api?username=lala74&show_icons=true&hide_border=true" /> 
+<img align="left" src="https://github-readme-stats-chi-rust.vercel.app/api?username=lala74&show_icons=true&hide_border=true" /> 
 
 <img align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=lala74&show_icons=true&locale=en&layout=compact" alt="lala74" />  
