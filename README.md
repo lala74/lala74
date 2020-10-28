@@ -40,12 +40,14 @@
 [![Spotify](https://spotify-playing-git-master.lala74.vercel.app/api/spotify)](https://open.spotify.com/user/nrjaez36fdyqfexa07wju067g)
 
 
-### Github Stats
-<img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=lala74&show_icons=true&locale=en&layout=compact"
-        alt="lala74" />
-
-
 ### Development Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<details>
+  <summary>:zap: Languages Stats</summary>
+  <img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=lala74&show_icons=true&locale=en&layout=compact"
+        alt="lala74" />
+</details>
+
