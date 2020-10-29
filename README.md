@@ -42,13 +42,13 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 97 Contributions in the Year 2020
  > 
-> 📦 160.5 kB Used in Github's Storage 
+> 📦 160.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,16 +85,23 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 56 mins             ███████████░░░░░░░░░░░░░░   45.36% 
+Makefile                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98% 
+C++                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lala74                   1 hr 10 mins        ██████████████░░░░░░░░░░░   55.83% 
+Computer_Vision          52 mins             ██████████░░░░░░░░░░░░░░░   41.91% 
+Game-Pacman              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
