@@ -42,11 +42,11 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 98 Contributions in the Year 2020
+> 🏆 100 Contributions in the Year 2020
  > 
 > 📦 160.6 kB Used in Github's Storage 
  > 
@@ -116,10 +116,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/lala74/lala74/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
