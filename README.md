@@ -83,16 +83,16 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Github-PFE-Smart-Home    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
