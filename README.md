@@ -42,11 +42,11 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 88 Contributions in the Year 2021
  > 
-> 📦 115.8 kB Used in Github's Storage 
+> 📦 115.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
