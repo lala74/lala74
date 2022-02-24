@@ -42,6 +42,8 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2059%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
@@ -83,16 +85,18 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   19 mins             ███████████████████████░░   93.13% 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+BlitzBasic               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+axon-camera              20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2022 01:17:03 UTC
+ Last Updated on 24/02/2022 12:33:13 UTC
 <!--END_SECTION:waka-->
 
 
