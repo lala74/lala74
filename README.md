@@ -42,8 +42,6 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%202%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 3 Contributions in the Year 2022
@@ -111,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2022 12:39:20 UTC
+ Last Updated on 09/04/2022 01:35:49 UTC
 <!--END_SECTION:waka-->
 
 
