@@ -42,7 +42,7 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -111,7 +111,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 12:51:47 UTC
+ Last Updated on 14/05/2022 02:05:37 UTC
 <!--END_SECTION:waka-->
 
 
