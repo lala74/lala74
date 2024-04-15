@@ -42,8 +42,6 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%202%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 116.1 kB Used in GitHub's Storage 
@@ -106,7 +104,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 14:46:52 UTC
+ Last Updated on 15/04/2024 03:29:20 UTC
 <!--END_SECTION:waka-->
 
 
