@@ -42,11 +42,11 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%202%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 116.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +106,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 02:10:32 UTC
+ Last Updated on 01/07/2025 12:50:59 UTC
 <!--END_SECTION:waka-->
 
 
