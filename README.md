@@ -48,11 +48,11 @@
 
 > 📦 117.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -98,17 +98,17 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 21/06/2026 14:20:50 UTC
+ Last Updated on 22/06/2026 04:57:55 UTC
 <!--END_SECTION:waka-->
 
 
