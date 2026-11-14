@@ -1,124 +1,24 @@
-<h1 align="center">Hi, I'm La Minh Đức</h1>
-<h3 align="center">A passionate embedded developer from Vietnam</h3>
+<h1 align="center">Hi, I'm La Minh Đức 👋</h1>
+<p align="center">Embedded Software Engineer from Vietnam</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lala74&label=Profile%20views&color=0e75b6&style=flat"
-                alt="lala74" /> </p>
-
-- 👨‍💻 All of my projects are available at
-[https://github.com/lala74?tab=repositories](https://github.com/lala74?tab=repositories)
-
-- 📝 I regulary write articles on [https://lala-74.blogspot.com/](https://lala-74.blogspot.com/)
-
-- 📫 How to reach me **laminhduc07042@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/lmduc74](www.linkedin.com/in/lmduc74)
-
-### Connect with me:
-<p align="left">
-        <a href="https://linkedin.com/in/lmduc74" target="blank"><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lmduc74"
-                        height="30" width="40" /></a>
-        <a href="https://fb.com/lmduc74" target="blank"><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lmduc74"
-                        height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lmduc74"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/lmduc74"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://lala-74.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" /></a>
+  <a href="mailto:laminhduc07042@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40"
-                        height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-                        height="40" /> </a> <a href="https://www.linux.org/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"
-                        width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
-                        alt="python" width="40" height="40" /> </a> </p>
+### Tech
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Yocto](https://img.shields.io/badge/Yocto-1B5E9F?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### I'm currently listening to
-[![Spotify](https://spotify-playing-git-master.lala74.vercel.app/api/spotify)](https://open.spotify.com/user/nrjaez36fdyqfexa07wju067g)
-
-
-### Development Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2052%20mins-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 117.2 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 14 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-🌆 Daytime                170 commits         █████████░░░░░░░░░░░░░░░░   35.12 % 
-🌃 Evening                164 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
-🌙 Night                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Wednesday                79 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Saturday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in C++** 
-
-```text
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-
-
-
-
- Last Updated on 01/11/2026 17:47:52 UTC
-<!--END_SECTION:waka-->
-
-
-<img align="left" src="https://github-readme-stats-chi-rust.vercel.app/api?username=lala74&show_icons=true&hide_border=true" /> 
-
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=lala74&show_icons=true&locale=en&layout=compact&hide_border=true" alt="lala74" />  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lala74/lala74/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/lala74/lala74/output/github-snake.svg" />
+</picture>
