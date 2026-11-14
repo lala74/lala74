@@ -2,10 +2,11 @@
 <p align="center">Embedded Software Engineer from Vietnam</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lmduc74"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/lala7497"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://lala-74.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" /></a>
-  <a href="mailto:laminhduc07042@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/lmduc74"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" /></a>
+  <a href="https://www.facebook.com/lala7497"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="48" /></a>
+  <a href="mailto:laminhduc07042@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" /></a>
+  <br />
+  <a href="https://lala-74.blogspot.com/">Blog: lala-74.blogspot.com</a>
 </p>
 
 ### Tech
